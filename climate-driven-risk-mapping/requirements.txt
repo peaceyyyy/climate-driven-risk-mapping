@@ -1,0 +1,17 @@
+pandas
+geopandas
+numpy
+scikit-learn
+xgboost
+rasterio
+requests
+matplotlib
+folium
+shapely
+scipy
+imbalanced-learn
+shap
+networkx
+pytest
+pyarrow
+tabulate
