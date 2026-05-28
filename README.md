@@ -1,6 +1,7 @@
 # Climate-Driven Tick Density Prediction Model
 
-![DOI 10.5281](https://zenodo.org/badge/DOI/10.5281/zenodo.20420382.svg)
+
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20420382.svg" />
 
 Build an end-to-end machine learning pipeline that predicts tick population density (ticks/km²) across ecological zones using environmental and climate data. The output is a seasonal risk heatmap dashboard.
 
